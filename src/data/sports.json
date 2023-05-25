@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ7ObBrhv7lsowpjupmP02YEAMgudaXfX1Q&usqp=CAU",
+        "title" : "Business, Travel 1",
+        "text" : "1: Your most unhappy customers are you greatest source of learning."
+    },
+    {
+        "id" : 2,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ7ObBrhv7lsowpjupmP02YEAMgudaXfX1Q&usqp=CAU",
+        "title" : "Business, Travel 2",
+        "text" : "2: Your most unhappy customers are you greatest source of learning."
+    },
+    {
+        "id" : 3,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ7ObBrhv7lsowpjupmP02YEAMgudaXfX1Q&usqp=CAU",
+        "title" : "Business, Travel 3",
+        "text" : "3: Your most unhappy customers are you greatest source of learning."
+    },
+    {
+        "id" : 4,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ7ObBrhv7lsowpjupmP02YEAMgudaXfX1Q&usqp=CAU",
+        "title" : "Business, Travel 4",
+        "text" : "4: Your most unhappy customers are you greatest source of learning."
+    },
+    {
+        "id" : 5,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ7ObBrhv7lsowpjupmP02YEAMgudaXfX1Q&usqp=CAU",
+        "title" : "Business, Travel 5",
+        "text" : "5: Your most unhappy customers are you greatest source of learning."
+    },
+    {
+        "id" : 6,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ7ObBrhv7lsowpjupmP02YEAMgudaXfX1Q&usqp=CAU",
+        "title" : "Business, Travel 6",
+        "text" : "6: Your most unhappy customers are you greatest source of learning."
+    }
+]
